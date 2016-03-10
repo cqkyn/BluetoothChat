@@ -56,7 +56,6 @@ public class ChatActivity extends Activity implements View.OnClickListener{
 	public static final String EXTRA_MESSAGER = "cn.com.farsgiht.bluetoothdemo.BUNDLE";
 	
 	// 蓝牙状态变量
-	private static int sBTState = -2;
 	private static int sBTState = -1;
 	
 	private final int REQUES_BT_ENABLE_CODE = 123;
